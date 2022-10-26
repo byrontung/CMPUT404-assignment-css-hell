@@ -12,6 +12,14 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Part 1
+=================
+`<link href="../book.css" rel="stylesheet">` was added to each gutenberg HTML file.
+`<img src="...">` was changed to correct navigate towards the correct image.
+Background color changed to #EADDCA ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
+
+
+
 License/Copyright
 =================
 

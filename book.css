@@ -1,0 +1,18 @@
+body{
+    background-color: #EADDCA;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+h2, h3, h4, h5{
+    font-weight: lighter;
+}
+img{
+    border: 5px solid pink;
+}
