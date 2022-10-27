@@ -1,0 +1,43 @@
+.sidebar {
+    background-color: #D3EEFF;
+    color: black;
+}
+
+.profile {
+    height: 250px;
+    width: 500px;
+    border-radius: 50%;
+}
+
+.section {
+    border-radius: 15px;
+    width: 70%;
+    border: 5px ridge white;
+}
+
+.center {
+    text-align: center;
+}
+
+.alignPictureText {
+    width: 100%;
+    display: flex;
+    margin-top: 2em;
+}
+
+.headerSpacing {
+    display: flex;
+}
+
+#sections {
+    border: 5px dotted white;
+}
+
+body {
+    background-color: #211eb8;
+    color: white;
+}
+
+p{
+    font-weight: bolder;
+}
